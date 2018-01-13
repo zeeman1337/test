@@ -1,0 +1,35 @@
+*{
+
+
+	margin: 0px;
+	padding:0px;
+	font-family: 'Ek Mukta', sans-serif;
+
+}
+
+ul{
+
+	list-style-type: none;
+
+}
+
+ul li.main-bar{
+
+	display: inline-block;
+	float: left;
+margin-left: 20px;
+}
+
+
+.bg-color{
+
+	background-color: yellow;
+
+}
+
+.sub-bar{
+
+display: none;
+
+
+}
